@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1661565329,
-        "narHash": "sha256-/0mGRXlB9VKHDAGa+OVa3RMNtQFSnqQj7/846MXHQVQ=",
+        "lastModified": 1661566897,
+        "narHash": "sha256-6bf0nR93MKmh1qno8oYvfjry2WpoU3vIHOO5yC+aD2E=",
         "owner": "nim-nix-pkgs",
         "repo": "audiodb",
-        "rev": "690a9101da4406d5433922b163f1cc869f743aa2",
+        "rev": "fa32fe4a9c3fc5f2727c631fdf00006d111373ab",
         "type": "github"
       },
       "original": {
@@ -39,11 +39,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1661565329,
-        "narHash": "sha256-/0mGRXlB9VKHDAGa+OVa3RMNtQFSnqQj7/846MXHQVQ=",
+        "lastModified": 1661566897,
+        "narHash": "sha256-6bf0nR93MKmh1qno8oYvfjry2WpoU3vIHOO5yC+aD2E=",
         "owner": "nim-nix-pkgs",
         "repo": "audiodb",
-        "rev": "690a9101da4406d5433922b163f1cc869f743aa2",
+        "rev": "fa32fe4a9c3fc5f2727c631fdf00006d111373ab",
         "type": "github"
       },
       "original": {
